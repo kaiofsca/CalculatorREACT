@@ -7,9 +7,38 @@ button {
     border-radius: 2em;
     cursor: pointer;
     margin: 0.3em;
+    transition: all 0.4s linear;
 }
 
 .wrapper {
     background-color: black;
     border-radius: 1em;
+    padding: 1em;
+}
+
+.orange {
+    background-color: #FF9500;
+    color: white;
+}
+
+.orange:focus {
+    background-color: white;
+    color: #FF9500;
+}
+
+.gray {
+    background-color: #505050;
+    color: white;
+}
+
+.gray:active {
+    background-color: white;
+}
+
+.result {
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 1em;
+    font-size: 3.5em;
 }
