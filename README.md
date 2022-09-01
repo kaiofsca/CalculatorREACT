@@ -1,4 +1,3 @@
-*<h1> README em construção </h1>*
 
 <h1 align="center"> Calculator React </h1>
 
@@ -8,3 +7,9 @@
 
 *<h2>Description:</h2>*
 
+<p>
+Primeiro projeto em React! Uma Calculadora 100% funcional, to muito feliz com o resultado e animado com oq eu posso construir com o REACT!!
+</p>
+
+<h3>Vídeo do projeto em funcionamento:</h3>
+https://youtu.be/CIx56ZKxKDk
