@@ -1,4 +1,8 @@
 
+body {
+    background-color: rgb(46, 46, 46);
+}
+
 button {
     width: 3em;
     height: 3em;
